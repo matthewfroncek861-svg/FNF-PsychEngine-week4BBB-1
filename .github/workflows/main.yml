@@ -39,6 +39,8 @@ jobs:
           sh ./setup/unix.sh
       - name: Skip SScript setup mode
         run: echo 'oy9:showMacroty8:loopCosti25y10:includeAllfg' >> ~/settings.cocoa
+      - name: extension-webm setup
+        run: haxelib run lime rebuild extension-webm linux
       - name: Create Version Tag
         run: echo "${{github.run_id}}" > VERSION
       - name: Compile
@@ -68,6 +70,8 @@ jobs:
       - name: Skip SScript setup mode
         run: echo 'oy9:showMacroty8:loopCosti25y10:includeAllfg' >> %USERPROFILE%/settings.cocoa
         shell: cmd
+      - name: extension-webm setup
+        run: haxelib run lime rebuild extension-webm windows
       - name: Create Version Tag
         run: echo "${{github.run_id}}" > VERSION
       - name: Compile
@@ -96,6 +100,8 @@ jobs:
           sh ./setup/unix.sh
       - name: Skip SScript setup mode
         run: echo 'oy9:showMacroty8:loopCosti25y10:includeAllfg' >> ~/settings.cocoa
+      - name: extension-webm setup
+        run: haxelib run lime rebuild extension-webm mac
       - name: Create Version Tag
         run: echo "${{github.run_id}}" > VERSION
       - name: Compile
