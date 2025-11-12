@@ -1587,20 +1587,6 @@ class Stages extends BaseStage
 		}
 		// FlxG.log.add('change bpm' + SONG.notes[Std.int(curStep / 16)].changeBPM);
 
-		if (curBeat % 2 == 1)
-		{
-			iconP1.setGraphicSize(Std.int(iconP1.width * 1.2));
-			iconP2.setGraphicSize(Std.int(iconP2.width * 1.2));
-		}
-		if (curBeat % 2 == 0)
-		{
-			iconP1.setGraphicSize(Std.int(iconP1.width * 1.2));
-			iconP2.setGraphicSize(Std.int(iconP2.width * 1.2));
-		}
-
-		FlxTween.tween(iconP1, {'scale.x': 1, 'scale.y': 1}, Conductor.crochet / 1250 * gfSpeed, {ease: FlxEase.quartOut});
-		FlxTween.tween(iconP2, {'scale.x': 1, 'scale.y': 1}, Conductor.crochet / 1250 * gfSpeed, {ease: FlxEase.quartOut});
-
 		if (curSong.toLowerCase() == 'trackstar' && curBeat >= 208 && curBeat < 304)
 			{
 				FlxG.camera.zoom += 0.10;
