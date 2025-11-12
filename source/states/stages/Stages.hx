@@ -1924,19 +1924,6 @@ class Stages extends BaseStage
 					}
 				}
 
-
-
-		switch (curStage)
-		{
-			case 'evilhospital':
-				if (curBeat % 2 == 0)
-				{
-					windowpoppers.animation.play('idle', true);
-					fleedbaby.animation.play('idle', true);
-					fleedgoblin.animation.play('idle', true);
-				}
-		}
-
 		if (isHalloween && FlxG.random.bool(10) && curBeat > lightningStrikeBeat + lightningOffset)
 		{
 			if(FlxG.save.data.distractions){
