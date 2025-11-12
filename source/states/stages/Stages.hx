@@ -140,7 +140,7 @@ class Stages extends BaseStage
 	var crib:FlxSprite;
 	var floorSkew:FlxSkewedSprite;
 
-	var camPos:FlxPoint = new FlxPoint();
+	var camPos:FlxPoint;
 
 	var trainCars:Int = 8;
 	var trainFinishing:Bool = false;
