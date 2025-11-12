@@ -126,6 +126,7 @@
 
 	<haxelib name="actuate"/>
 	<haxelib name="openfl-webm"/>
+	<haxelib name="extension-webm" if="desktop" />
 
 	<!-- Disable Discord IO Thread -->
 	<haxedef name="DISCORD_DISABLE_IO_THREAD" if="hxdiscord_rpc" />
