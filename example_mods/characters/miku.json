@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Miku idle dance"
+		},
+		{
+			"offsets": [
+				31,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Miku Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Miku Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				19,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Miku Sing Note UP"
+		},
+		{
+			"offsets": [
+				-41,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Miku Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss Miku Sing Note LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss Miku Sing Note DOWN MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss Miku Sing Note RIGHT MISS"
+		},
+		{
+			"offsets": [
+				23,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss Miku Sing Note UP MISS"
+		},
+		{
+			"offsets": [
+				50,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "miku hey"
+		},
+		{
+			"offsets": [
+				46,
+				-84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ew",
+			"loop": false,
+			"name": "ew miku"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ev_miku_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "miku",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		205,
+		204
+	],
+	"camera_position": [
+		-60,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

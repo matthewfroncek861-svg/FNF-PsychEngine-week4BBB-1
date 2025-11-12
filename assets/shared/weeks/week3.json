@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Baby-Bob", "bob", [146, 113, 253]],
+		["Just-Like-You", "bob-ron", [146, 113, 253]],
+		["Insignificance", "bobcreature", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "BOB BOB BOB BOB",
+	"weekBefore": "tutorial",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

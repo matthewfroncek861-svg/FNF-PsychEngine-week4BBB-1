@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Temper-Tantrum", "evil-baby", [146, 113, 253]],
+		["Babys-Revenge", "evil-baby", [146, 113, 253]],
+		["Un-Adieu", "evil-baby", [146, 113, 253]],
+		["Trackstar", "running-goblin", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Brotherhood Rivalry",
+	"weekBefore": "tutorial",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsidle0000" x="0" y="0" width="841" height="219" pivotX="28.7" pivotY="12.2"/>
+	<SubTexture name="creditsidle0001" x="0" y="0" width="841" height="219"/>
+	<SubTexture name="creditsidle0002" x="0" y="0" width="841" height="219"/>
+	<SubTexture name="creditsidle0003" x="841" y="0" width="841" height="219"/>
+	<SubTexture name="creditsidle0004" x="841" y="0" width="841" height="219"/>
+	<SubTexture name="creditsidle0005" x="841" y="0" width="841" height="219"/>
+	<SubTexture name="creditsselect0000" x="0" y="219" width="1088" height="227" pivotX="44.2" pivotY="16.2"/>
+	<SubTexture name="creditsselect0001" x="0" y="219" width="1088" height="227"/>
+	<SubTexture name="creditsselect0002" x="0" y="219" width="1088" height="227"/>
+	<SubTexture name="creditsselect0003" x="0" y="446" width="1088" height="227"/>
+	<SubTexture name="creditsselect0004" x="0" y="446" width="1088" height="227"/>
+	<SubTexture name="creditselect0005" x="0" y="446" width="1088" height="227"/>
+	<SubTexture name="freeidle0000" x="1088" y="446" width="865" height="210" pivotX="19.9" pivotY="12.4"/>
+	<SubTexture name="freeidle0001" x="1088" y="446" width="865" height="210"/>
+	<SubTexture name="freeidle0002" x="1088" y="446" width="865" height="210"/>
+	<SubTexture name="freeidle0003" x="0" y="673" width="865" height="210"/>
+	<SubTexture name="freeidle0004" x="0" y="673" width="865" height="210"/>
+	<SubTexture name="freeidle0005" x="0" y="673" width="865" height="210"/>
+	<SubTexture name="freeselect0000" x="865" y="673" width="1086" height="220" pivotX="41.15" pivotY="17.5"/>
+	<SubTexture name="freeselect0001" x="865" y="673" width="1086" height="220"/>
+	<SubTexture name="freeselect0002" x="865" y="673" width="1086" height="220"/>
+	<SubTexture name="freeselect0003" x="0" y="893" width="1086" height="220"/>
+	<SubTexture name="freeselect0004" x="0" y="893" width="1086" height="220"/>
+	<SubTexture name="freeselect0005" x="0" y="893" width="1086" height="220"/>
+	<SubTexture name="settingsidle0000" x="1086" y="893" width="254" height="239" pivotX="20.75" pivotY="21.65"/>
+	<SubTexture name="settingsidle0001" x="1086" y="893" width="254" height="239"/>
+	<SubTexture name="settingsidle0002" x="1086" y="893" width="254" height="239"/>
+	<SubTexture name="settingsidle0003" x="1340" y="893" width="254" height="239"/>
+	<SubTexture name="settingsidle0004" x="1340" y="893" width="254" height="239"/>
+	<SubTexture name="settingsidle0005" x="1340" y="893" width="254" height="239"/>
+	<SubTexture name="settingsselect0000" x="0" y="1132" width="484" height="255" pivotX="29.35" pivotY="34.5"/>
+	<SubTexture name="settingsselect0001" x="0" y="1132" width="484" height="255"/>
+	<SubTexture name="settingsselect0002" x="0" y="1132" width="484" height="255"/>
+	<SubTexture name="settingsselect0003" x="484" y="1132" width="484" height="255"/>
+	<SubTexture name="settingsselect0004" x="484" y="1132" width="484" height="255"/>
+	<SubTexture name="settingsselect0005" x="484" y="1132" width="484" height="255"/>
+	<SubTexture name="storyidle0000" x="968" y="1132" width="743" height="230" pivotX="23.3" pivotY="20.4"/>
+	<SubTexture name="storyidle0001" x="968" y="1132" width="743" height="230"/>
+	<SubTexture name="storyidle0002" x="968" y="1132" width="743" height="230"/>
+	<SubTexture name="storyidle0003" x="0" y="1387" width="743" height="230"/>
+	<SubTexture name="storyidle0004" x="0" y="1387" width="743" height="230"/>
+	<SubTexture name="storyidle0005" x="0" y="1387" width="743" height="230"/>
+	<SubTexture name="storyselect0000" x="743" y="1387" width="983" height="246" pivotX="44.65" pivotY="28"/>
+	<SubTexture name="storyselect0001" x="743" y="1387" width="983" height="246"/>
+	<SubTexture name="storyselect0002" x="743" y="1387" width="983" height="246"/>
+	<SubTexture name="storyselect0003" x="0" y="1633" width="983" height="246"/>
+	<SubTexture name="storyselect0004" x="0" y="1633" width="983" height="246"/>
+	<SubTexture name="storyselect0005" x="0" y="1633" width="983" height="246"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="windowbrocken.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evil window instance 10000" x="9" y="9" width="461" height="448" frameX="-12" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10001" x="9" y="9" width="461" height="448" frameX="-12" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10002" x="9" y="9" width="461" height="448" frameX="-12" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10003" x="485" y="9" width="462" height="420" frameX="-11" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10004" x="485" y="9" width="462" height="420" frameX="-11" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10005" x="485" y="9" width="462" height="420" frameX="-11" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10006" x="9" y="472" width="455" height="436" frameX="-18" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10007" x="9" y="472" width="455" height="436" frameX="-18" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10008" x="9" y="472" width="455" height="436" frameX="-18" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10009" x="479" y="472" width="473" height="419" frameX="0" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10010" x="479" y="472" width="473" height="419" frameX="0" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10011" x="479" y="472" width="473" height="419" frameX="0" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10012" x="9" y="923" width="456" height="421" frameX="-17" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10013" x="9" y="923" width="456" height="421" frameX="-17" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10014" x="9" y="923" width="456" height="421" frameX="-17" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10015" x="480" y="923" width="453" height="436" frameX="-20" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10016" x="480" y="923" width="453" height="436" frameX="-20" frameY="0" frameWidth="473" frameHeight="448"/>
+	<SubTexture name="evil window instance 10017" x="480" y="923" width="453" height="436" frameX="-20" frameY="0" frameWidth="473" frameHeight="448"/>
+</TextureAtlas>

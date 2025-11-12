@@ -1,0 +1,53 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "windowwatcheridle"
+		},
+		{
+			"offsets": [4, 131],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [30, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-2, -100],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [201, -17],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/windowwatcher",
+	"position": [0, 0],
+	"healthicon": "window-watcher",
+	"flip_x": false,
+	"healthbar_colors": [205, 222, 225],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1
+}

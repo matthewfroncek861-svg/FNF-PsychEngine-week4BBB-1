@@ -1,0 +1,77 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "baby idle"
+    },
+    {
+      "offsets": [34, 35],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "baby up"
+    },
+    {
+      "offsets": [41, 7],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "baby right"
+    },
+    {
+      "offsets": [52, -6],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "baby left"
+    },
+    {
+      "offsets": [-5, -20],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "baby down"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "hi",
+      "indices": [],
+      "name": "baby appear"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "bye",
+      "indices": [],
+      "name": "baby dissapear"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "gone",
+      "indices": [],
+      "name": "baby gone"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/myth_sprites",
+  "position": [0, 0],
+  "healthicon": "myth",
+  "flip_x": false,
+  "healthbar_colors": [179, 255, 255],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

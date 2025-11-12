@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "gametoons idle"
+    },
+    {
+      "offsets": [20, 31],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "gametoons up"
+    },
+    {
+      "offsets": [30, 6],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "gametoons right"
+    },
+    {
+      "offsets": [45, -6],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "gametoons right"
+    },
+    {
+      "offsets": [-9, -49],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "gametoons down"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/gametoons",
+  "position": [0, 0],
+  "healthicon": "gametoons",
+  "flip_x": false,
+  "healthbar_colors": [102, 255, 254],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

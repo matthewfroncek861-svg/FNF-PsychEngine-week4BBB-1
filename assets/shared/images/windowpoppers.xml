@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="windowpoppers.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="windowpoppers0000" x="25" y="25" width="1261" height="753" frameX="-1" frameY="-3" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0001" x="1311" y="25" width="1262" height="752" frameX="-2" frameY="-1" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0002" x="2598" y="25" width="1262" height="753" frameX="-2" frameY="0" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0003" x="25" y="803" width="1261" height="753" frameX="-2" frameY="-4" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0004" x="1311" y="803" width="1261" height="755" frameX="0" frameY="-3" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0005" x="2597" y="803" width="1261" height="755" frameX="-1" frameY="-3" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0006" x="2597" y="803" width="1261" height="755" frameX="-1" frameY="-3" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0007" x="25" y="1583" width="1262" height="753" frameX="-1" frameY="-3" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0008" x="2597" y="803" width="1261" height="755" frameX="-1" frameY="-2" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0009" x="1312" y="1583" width="1261" height="754" frameX="-1" frameY="-2" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0010" x="25" y="1583" width="1262" height="753" frameX="-1" frameY="-2" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0011" x="2598" y="1583" width="1262" height="754" frameX="-1" frameY="-2" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0012" x="25" y="2362" width="1262" height="754" frameX="-1" frameY="-2" frameWidth="1264" frameHeight="758"/>
+	<SubTexture name="windowpoppers0013" x="1312" y="2362" width="0" height="0" frameX="-629" frameY="-386" frameWidth="1264" frameHeight="758"/>
+</TextureAtlas>

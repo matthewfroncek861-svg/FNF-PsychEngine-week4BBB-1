@@ -1,0 +1,61 @@
+{
+  "animations": [
+    {
+      "offsets": [3, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "babyglassidle"
+    },
+    {
+      "offsets": [-3, 80],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "babyglassup"
+    },
+    {
+      "offsets": [-53, 2],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "babyglassright"
+    },
+    {
+      "offsets": [12, -100],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "babyglassdown"
+    },
+    {
+      "offsets": [105, -4],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "babyglassleft"
+    },
+    {
+      "offsets": [101, 135],
+      "loop": false,
+      "fps": 24,
+      "anim": "bye",
+      "indices": [],
+      "name": "babyfreeing"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/glassbaby",
+  "position": [0, 0],
+  "healthicon": "glassbaby",
+  "flip_x": true,
+  "healthbar_colors": [205, 222, 225],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

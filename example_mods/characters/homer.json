@@ -1,0 +1,53 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "homer idle"
+		},
+		{
+			"offsets": [100, 288],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "homer up"
+		},
+		{
+			"offsets": [300, 16],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "homer right"
+		},
+		{
+			"offsets": [453, -19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "homer down"
+		},
+		{
+			"offsets": [415, 104],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "homer left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/homer",
+	"position": [0, 0],
+	"healthicon": "homer",
+	"flip_x": false,
+	"healthbar_colors": [255, 214, 36],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1
+}

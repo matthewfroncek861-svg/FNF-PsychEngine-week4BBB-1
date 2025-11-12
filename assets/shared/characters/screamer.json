@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "screamer idle"
+    },
+    {
+      "offsets": [20, 31],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "screamer left"
+    },
+    {
+      "offsets": [30, 6],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "screamer right"
+    },
+    {
+      "offsets": [45, -6],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "screamer right"
+    },
+    {
+      "offsets": [-9, -49],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "screamer left"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/screamer",
+  "position": [0, 0],
+  "healthicon": "screamer",
+  "flip_x": false,
+  "healthbar_colors": [255, 254, 221],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

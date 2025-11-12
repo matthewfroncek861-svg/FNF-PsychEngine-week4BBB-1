@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "alien"
+    },
+    {
+      "offsets": [-6, 50],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "alien"
+    },
+    {
+      "offsets": [0, 27],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "alien"
+    },
+    {
+      "offsets": [-10, 10],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "alien"
+    },
+    {
+      "offsets": [0, -30],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "alien"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/alien",
+  "position": [0, 0],
+  "healthicon": "alien",
+  "flip_x": false,
+  "healthbar_colors": [165, 0, 77],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

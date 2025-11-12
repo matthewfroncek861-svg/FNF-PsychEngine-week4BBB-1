@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="songstart.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tutorial0000" x="9" y="9" width="550" height="103"/>
+	<SubTexture name="baby-blue0000" x="574" y="9" width="549" height="103"/>
+	<SubTexture name="baby-bob0000" x="1138" y="9" width="549" height="103"/>
+	<SubTexture name="babys-lullaby0000" x="9" y="127" width="983" height="103"/>
+	<SubTexture name="babys-revenge0000" x="9" y="245" width="1049" height="103"/>
+	<SubTexture name="flower0000" x="1073" y="245" width="549" height="103"/>
+	<SubTexture name="four eyes0000" x="9" y="363" width="549" height="103"/>
+	<SubTexture name="gametoons0000" x="573" y="363" width="916" height="103"/>
+	<SubTexture name="insignificance0000" x="9" y="481" width="960" height="103"/>
+	<SubTexture name="just-like-you0000" x="984" y="481" width="928" height="103"/>
+	<SubTexture name="kidz-bop0000" x="9" y="599" width="549" height="103"/>
+	<SubTexture name="kitty0000" x="573" y="599" width="549" height="103"/>
+	<SubTexture name="myth0000" x="1137" y="599" width="549" height="103"/>
+	<SubTexture name="nap-time0000" x="9" y="717" width="549" height="103"/>
+	<SubTexture name="rebound0000" x="573" y="717" width="549" height="103"/>
+	<SubTexture name="temper-tantrum0000" x="9" y="835" width="1042" height="103"/>
+	<SubTexture name="trackstar0000" x="1066" y="835" width="569" height="103"/>
+	<SubTexture name="un-adieu0000" x="9" y="953" width="549" height="103"/>
+</TextureAtlas>

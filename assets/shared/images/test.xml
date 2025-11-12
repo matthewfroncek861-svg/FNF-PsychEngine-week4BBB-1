@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="test.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10000" x="10" y="10" width="169" height="305" frameX="-1" frameY="0" frameWidth="170" frameHeight="305"/>
+	<SubTexture name="10001" x="10" y="10" width="169" height="305" frameX="-1" frameY="0" frameWidth="170" frameHeight="305"/>
+	<SubTexture name="10002" x="10" y="10" width="169" height="305" frameX="-1" frameY="0" frameWidth="170" frameHeight="305"/>
+	<SubTexture name="10003" x="189" y="10" width="170" height="305"/>
+	<SubTexture name="10004" x="189" y="10" width="170" height="305"/>
+	<SubTexture name="10005" x="189" y="10" width="170" height="305"/>
+	<SubTexture name="10006" x="10" y="325" width="170" height="305"/>
+	<SubTexture name="10007" x="10" y="325" width="170" height="305"/>
+	<SubTexture name="10008" x="10" y="325" width="170" height="305"/>
+	<SubTexture name="20000" x="190" y="325" width="216" height="304"/>
+	<SubTexture name="20001" x="190" y="325" width="216" height="304"/>
+	<SubTexture name="20002" x="190" y="325" width="216" height="304"/>
+	<SubTexture name="20003" x="10" y="640" width="215" height="304" frameX="-1" frameY="0" frameWidth="216" frameHeight="304"/>
+	<SubTexture name="20004" x="10" y="640" width="215" height="304" frameX="-1" frameY="0" frameWidth="216" frameHeight="304"/>
+	<SubTexture name="20005" x="10" y="640" width="215" height="304" frameX="-1" frameY="0" frameWidth="216" frameHeight="304"/>
+	<SubTexture name="20006" x="235" y="640" width="215" height="304" frameX="-1" frameY="0" frameWidth="216" frameHeight="304"/>
+	<SubTexture name="20007" x="235" y="640" width="215" height="304" frameX="-1" frameY="0" frameWidth="216" frameHeight="304"/>
+	<SubTexture name="20008" x="235" y="640" width="215" height="304" frameX="-1" frameY="0" frameWidth="216" frameHeight="304"/>
+</TextureAtlas>

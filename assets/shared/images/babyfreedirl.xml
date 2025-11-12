@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="babyfreedirl.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="babyfreedirl0000" x="25" y="25" width="283" height="306" frameX="0" frameY="-19" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0001" x="25" y="25" width="283" height="306" frameX="0" frameY="-19" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0002" x="333" y="25" width="281" height="319" frameX="-1" frameY="-7" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0003" x="333" y="25" width="281" height="319" frameX="-1" frameY="-7" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0004" x="639" y="25" width="281" height="322" frameX="-1" frameY="-4" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0005" x="639" y="25" width="281" height="322" frameX="-1" frameY="-4" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0006" x="25" y="372" width="280" height="325" frameX="-2" frameY="-1" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0007" x="25" y="372" width="280" height="325" frameX="-2" frameY="-1" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0008" x="330" y="372" width="280" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0009" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0010" x="25" y="723" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0011" x="25" y="723" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0012" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0013" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0014" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0015" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0016" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0017" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0018" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0019" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0020" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0021" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0022" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0023" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0024" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0025" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0026" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0027" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0028" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0029" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0030" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0031" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0032" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0033" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0034" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0035" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0036" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0037" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0038" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0039" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0040" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0041" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0042" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0043" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0044" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0045" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0046" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+	<SubTexture name="babyfreedirl0047" x="635" y="372" width="281" height="326" frameX="-2" frameY="0" frameWidth="283" frameHeight="326"/>
+</TextureAtlas>

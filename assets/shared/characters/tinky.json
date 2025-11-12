@@ -1,0 +1,53 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TinkyIdle"
+		},
+		{
+			"offsets": [-2, 46],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TinkyUp"
+		},
+		{
+			"offsets": [-3, -94],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TinkyRight"
+		},
+		{
+			"offsets": [-9, -67],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TinkyDown"
+		},
+		{
+			"offsets": [135, -72],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TinkyLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tinky_Winky",
+	"position": [0, 0],
+	"healthicon": "tinky",
+	"flip_x": false,
+	"healthbar_colors": [96, 1, 181],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1
+}

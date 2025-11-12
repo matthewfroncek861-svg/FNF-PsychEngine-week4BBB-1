@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "baby 2 idle"
+    },
+    {
+      "offsets": [34, 50],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "baby 2 up"
+    },
+    {
+      "offsets": [-28, -16],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "baby 2 right"
+    },
+    {
+      "offsets": [137, 3],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "baby 2 sing left"
+    },
+    {
+      "offsets": [8, -77],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "baby 2 down"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/evil_baby",
+  "position": [0, 0],
+  "healthicon": "evil-baby",
+  "flip_x": false,
+  "healthbar_colors": [179, 255, 255],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}

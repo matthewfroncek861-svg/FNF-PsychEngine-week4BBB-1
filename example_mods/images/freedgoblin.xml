@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freedgoblin.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freedgoblin0000" x="25" y="25" width="204" height="297" frameX="0" frameY="-8" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0001" x="25" y="25" width="204" height="297" frameX="0" frameY="-8" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0002" x="254" y="25" width="203" height="301" frameX="-1" frameY="-4" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0003" x="254" y="25" width="203" height="301" frameX="-1" frameY="-4" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0004" x="25" y="351" width="203" height="303" frameX="-1" frameY="-2" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0005" x="25" y="351" width="203" height="303" frameX="-1" frameY="-2" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0006" x="253" y="351" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0007" x="253" y="351" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0008" x="25" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0009" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0010" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0011" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0012" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0013" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0014" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0015" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0016" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0017" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0018" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0019" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0020" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0021" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0022" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0023" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0024" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0025" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0026" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0027" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0028" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0029" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0030" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0031" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0032" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0033" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0034" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0035" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0036" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0037" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0038" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0039" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0040" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0041" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0042" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0043" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0044" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0045" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0046" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0047" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0048" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0049" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0050" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0051" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+	<SubTexture name="freedgoblin0052" x="253" y="681" width="203" height="305" frameX="-1" frameY="0" frameWidth="204" frameHeight="305"/>
+</TextureAtlas>

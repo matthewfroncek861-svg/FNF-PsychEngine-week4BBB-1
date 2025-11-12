@@ -1,0 +1,61 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "goblinglassidle"
+    },
+    {
+      "offsets": [-3, 70],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "goblinglassup"
+    },
+    {
+      "offsets": [-61, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "goblinglassright"
+    },
+    {
+      "offsets": [-2, -72],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "goblinglassdown"
+    },
+    {
+      "offsets": [80, -5],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "goblinglassleft"
+    },
+    {
+      "offsets": [29, 52],
+      "loop": false,
+      "fps": 16,
+      "anim": "bye",
+      "indices": [],
+      "name": "goblinfree"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/glassgoblin",
+  "position": [0, 0],
+  "healthicon": "glassgoblin",
+  "flip_x": true,
+  "healthbar_colors": [205, 222, 225],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}
