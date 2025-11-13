@@ -137,8 +137,6 @@ class Character extends FlxSprite
 
 				addOffset('scared', -2, -17);
 
-				playAnim('danceRight');
-
 			case 'gf-christmas':
 				tex = Paths.getSparrowAtlas('characters/gfChristmas');
 				frames = tex;
@@ -168,8 +166,6 @@ class Character extends FlxSprite
 
 				addOffset('scared', -2, -17);
 
-				playAnim('danceRight');
-
 			case 'gf-car':
 				tex = Paths.getSparrowAtlas('characters/gfCar');
 				frames = tex;
@@ -181,8 +177,6 @@ class Character extends FlxSprite
 				addOffset('danceLeft', 0);
 				addOffset('danceRight', 0);
 
-				playAnim('danceRight');
-
 			case 'gf-goblin':
 				tex = Paths.getSparrowAtlas('characters/goblin_gf');
 				frames = tex;
@@ -193,8 +187,6 @@ class Character extends FlxSprite
 				addOffset('danceLeft', 0);
 				addOffset('danceRight', 0);
 
-				playAnim('danceRight');
-
 			case 'baby-bopper':
 				tex = Paths.getSparrowAtlas('characters/baby_bopper');
 				frames = tex;
@@ -204,9 +196,6 @@ class Character extends FlxSprite
 
 				addOffset('danceLeft', 0);
 				addOffset('danceRight', 0);
-
-				playAnim('danceRight');
-
 			case 'gf-pixel':
 				tex = Paths.getSparrowAtlas('characters/gfPixel');
 				frames = tex;
@@ -216,8 +205,6 @@ class Character extends FlxSprite
 
 				addOffset('danceLeft', 0);
 				addOffset('danceRight', 0);
-
-				playAnim('danceRight');
 
 				setGraphicSize(Std.int(width * PlayState.daPixelZoom));
 				updateHitbox();
@@ -267,8 +254,6 @@ class Character extends FlxSprite
 					bfHealthColor = '0xFFA5004D';
 				if(!isPlayer)
 					dadHealthColor = '0xFFA5004D';
-
-				playAnim('danceRight');
 			case 'mom':
 				tex = Paths.getSparrowAtlas('characters/Mom_Assets');
 				frames = tex;
@@ -1029,8 +1014,6 @@ class Character extends FlxSprite
 					dadHealthColor = '0xFF31B0D1';
 
 				playAnim('idle');
-
-				flipX = true;
 			case 'micbf':
 					var tex = Paths.getSparrowAtlas('characters/micbf', 'shared');
 					frames = tex;
