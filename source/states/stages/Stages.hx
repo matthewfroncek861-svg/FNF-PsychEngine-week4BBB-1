@@ -295,7 +295,6 @@ class Stages extends BaseStage
 					var chair2:FlxSprite = new FlxSprite(1149, 115).loadGraphic(Paths.image('evilchair'));
 					chair2.antialiasing = true;
 					chair2.scrollFactor.set(0.9, 0.9);
-					chair2.active = false;
 					chair2.visible = false;
 					chair2.setGraphicSize(Std.int(chair2.width * 1.1));
 					chair2.updateHitbox();
@@ -303,7 +302,6 @@ class Stages extends BaseStage
 					var table2:FlxSprite = new FlxSprite(902, 350).loadGraphic(Paths.image('eviltable'));
 					table2.antialiasing = true;
 					table2.scrollFactor.set(0.9, 0.9);
-					table2.active = false;
 					table2.visible = false;
 					table2.setGraphicSize(Std.int(table2.width * 1.1));
 					table2.updateHitbox();
@@ -312,8 +310,6 @@ class Stages extends BaseStage
 					var monitor:FlxSprite = new FlxSprite(437, 37).loadGraphic(Paths.image('evilmonitor'));
 					monitor.antialiasing = true;
 					monitor.scrollFactor.set(0.9, 0.9);
-					monitor.active = false;
-
 					monitor.visible = false;
 					monitor.setGraphicSize(Std.int(monitor.width * 1.25));
 					monitor.updateHitbox();
@@ -321,7 +317,6 @@ class Stages extends BaseStage
 					var pot:FlxSprite = new FlxSprite(1052, 175).loadGraphic(Paths.image('potfloater'));
 					pot.antialiasing = true;
 					pot.scrollFactor.set(0.9, 0.9);
-					pot.active = false;
 					pot.visible = false;
 					pot.setGraphicSize(Std.int(pot.width * 1.2));
 					pot.updateHitbox();
@@ -330,7 +325,6 @@ class Stages extends BaseStage
 					var v1:FlxSprite = new FlxSprite(-250, -100).loadGraphic(Paths.image('characters/glassbaby'));
 					v1.antialiasing = true;
 					v1.scrollFactor.set();
-					v1.active = false;
 					v1.updateHitbox();
 					v1.alpha = 0;
 					add(v1);
@@ -338,7 +332,6 @@ class Stages extends BaseStage
 					var v2:FlxSprite = new FlxSprite(-250, -100).loadGraphic(Paths.image('characters/glassgoblin'));
 					v2.antialiasing = true;
 					v2.scrollFactor.set();
-					v2.active = false;
 					v2.updateHitbox();
 					v2.alpha = 0;
 					add(v2);
@@ -346,10 +339,10 @@ class Stages extends BaseStage
 					var v3:FlxSprite = new FlxSprite(-250, -100).loadGraphic(Paths.image('characters/micbf'));
 					v3.antialiasing = true;
 					v3.scrollFactor.set();
-					v3.active = false;
 					v3.updateHitbox();
 					v3.alpha = 0;
 					add(v3);
+	
 					//ugly fat shit poop
 					var bgevil:FlxSprite = new FlxSprite(-826, -383).loadGraphic(Paths.image('windowbgpng'));
 					bgevil.scrollFactor.set(1, 1);
@@ -381,7 +374,7 @@ class Stages extends BaseStage
 					fleedgoblin.animation.addByPrefix('idle', "freedgoblin", 24);
 					fleedgoblin.antialiasing = true;
 					fleedgoblin.visible = false;
-					//add(fleedgoblin);
+					add(fleedgoblin);
 					fleedgoblin.animation.play('idle');
 
 					var babybluefuckhead = Paths.getSparrowAtlas('babyfreedirl');
@@ -391,7 +384,7 @@ class Stages extends BaseStage
 					fleedbaby.animation.addByPrefix('idle', "babyfreedirl", 24);
 					fleedbaby.antialiasing = true;
 					fleedbaby.visible = false;
-					//add(fleedbaby);
+					add(fleedbaby);
 					fleedbaby.animation.play('idle');
 					
 			}
@@ -704,15 +697,6 @@ class Stages extends BaseStage
 		boyfriend.playAnim('scared', true);
 		gf.playAnim('scared', true);
 	}
-	function changeDaddy(id:String)
-		{
-			var olddadx = dad.x;
-			var olddady = dad.y;
-			remove(dad);
-			add(dad);
-			iconP2.animation.play(id);
-			trace('did it work, just maybe, just maybe');
-		}
 	function changeBf(id:String)
 			{                
 				var olddadx = boyfriend.x;
@@ -1795,7 +1779,6 @@ class Stages extends BaseStage
 								ease: FlxEase.quadIn
 							});
 						case 296:
-							//end of windowwathcers part
 							coolshadergayshitlol = false;
 							health -= .75;
 							camHUD.visible = false;
@@ -1814,7 +1797,7 @@ class Stages extends BaseStage
 							camGame.alpha = 1;
 							camHUD.visible = true;
 							changeDaddy('glassgoblin');
-							SONG.player2 = ("glassgoblin");
+        PlayState.triggerEventNote('Change Character', 'dad', 'glassgoblin');
 						case 320:
 							defaultCamZoom = 1.05;
 						case 558:
@@ -1846,7 +1829,8 @@ class Stages extends BaseStage
 							FlxG.camera.zoom += 0.3;
 							camHUD.zoom += 0.1;
 							SONG.player2 = ("glassbaby");
-							changeDaddy('glassbaby');
+
+        PlayState.triggerEventNote('Change Character', 'dad', 'glassbaby');
 						case 800:
 							defaultCamZoom = 1.15;
 						case 926:
@@ -1872,7 +1856,11 @@ class Stages extends BaseStage
 							changeBf('micbf');
 							SONG.player2 = ("window-watcher");
 							SONG.player1 = ("micbf");
-							changeDaddy('window-watcher');
+		
+
+         PlayState.triggerEventNote('Change Character', 'bf', 'micbf');
+
+         PlayState.triggerEventNote('Change Character', 'dad', 'window-watcher');
 							FlxTween.tween(dad, {x: 260}, 2, {type: FlxTweenType.PINGPONG, ease: FlxEase.sineInOut});
 							FlxTween.tween(dad, {y: 180}, 6, {type: FlxTweenType.PINGPONG, ease: FlxEase.sineInOut});
 						case 1178:
